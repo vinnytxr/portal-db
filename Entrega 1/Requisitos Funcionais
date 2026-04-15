@@ -1,0 +1,17 @@
+Requisitos Funcionais
+
+RF01: O sistema deve permitir o cadastro de usuários com dados pessoais (nome, email, senha, foto, bio). 
+RF02: O sistema deve permitir a definição de roles para usuários (Aluno, Professor, Admin). 
+RF03: O sistema deve permitir a associação de múltiplas roles a um mesmo usuário. 
+RF04: O sistema deve permitir a criação de cursos com título, descrição e banner. 
+RF05: O sistema deve permitir a vinculação de cursos a professores responsáveis. 
+RF06: O sistema deve permitir a organização de cursos em módulos de aprendizado. 
+RF07: O sistema deve permitir a criação de aulas vinculadas a cursos. 
+RF08: O sistema deve permitir a inscrição de alunos em cursos. 
+RF09: O sistema deve registrar a data de inscrição do aluno em um curso. 
+RF10: O sistema deve permitir a visualização da lista de cursos disponíveis. 
+RF11: O sistema deve permitir a visualização dos módulos e aulas de um curso. 
+RF12: O sistema deve permitir a consulta ao perfil de cada usuário. 
+RF13: O sistema deve garantir o controle de acesso diferenciado por role. 
+RF14: O sistema deve garantir o registro dos professores que ministram cursos. 
+RF15: O sistema deve garantir o registro de alunos que participam de cursos.
