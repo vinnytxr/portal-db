@@ -1,5 +1,7 @@
 Requisitos Funcionais
 
+Lista de necessidades que o banco deve atender:
+
 RF01: O sistema deve permitir o cadastro de usuários com dados pessoais (nome, email, senha, foto, bio). 
 RF02: O sistema deve permitir a definição de roles para usuários (Aluno, Professor, Admin). 
 RF03: O sistema deve permitir a associação de múltiplas roles a um mesmo usuário. 
