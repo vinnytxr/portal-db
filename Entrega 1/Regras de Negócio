@@ -1,0 +1,20 @@
+Regras de Negócio
+
+Lista de definições restritivas do banco: 
+
+RN01: Cada usuário deve possuir um email único. 
+RN02: Um curso deve estar vinculado a pelo menos um professor. 
+RN03: Um aluno só pode assistir aulas de cursos em que está inscrito. 
+RN04: Um curso pode conter vários módulos. 
+RN05: Um curso pode conter várias aulas. 
+RN06: Um professor pode ministrar vários cursos. 
+RN07: Um aluno pode se inscrever em vários cursos. 
+RN08: Um curso deve possuir pelo menos um módulo ou uma aula cadastrada para ser 
+considerado ativo. 
+RN09: Um usuário pode ter múltiplos papéis (ex.: professor e aluno ao mesmo tempo). 
+RN10: Apenas usuários com papel de professor podem criar cursos. 
+RN11: Apenas usuários com papel de admin podem gerenciar papéis de outros usuários. 
+RN12: A matrícula deve registrar a data de inscrição do aluno no curso. 
+RN13: Um aluno não pode se inscrever duas vezes no mesmo curso. 
+RN14: Apenas usuários ativos podem acessar cursos e aulas. 
+RN15: A exclusão de um curso deve excluir também seus módulos e aulas associados.
